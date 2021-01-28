@@ -7,3 +7,5 @@
 	Pour créer une nouvelle partie il suffit juste d'appuyer sur "1" et se laisser absorber dans le jeu!
 
 							Bon "amusement !"
+							
+							attention, la classe plateau.rb se trouve dans lib et non dans la racine !
